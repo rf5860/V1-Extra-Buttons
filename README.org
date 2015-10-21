@@ -1,0 +1,28 @@
+* VersionOne Default Task Creator
+** Overview
+
+Adds a button to the *Tasks* section which creates a set of standard Tasks for *Defects* and StorieAdds a button to the *Tasks* section which creates a set of standard Tasks for *Defects* and *Stories*
+
+Default Tasks for Defects:
+- Development
+- Automated Testing
+- Testing
+- Code Review
+
+Default Tasks for Stories:
+- Development
+- Automated Testing
+- Testing
+- Code Review
+- Documentation
+- Documentation Review
+- Test Case Review
+
+Example of Tasks being created for a defect:
+[[./imgs/usage.gif]]
+
+** Installation
+
+This script utilizes [[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en][Tampermonkey (Chrome)]] / [[https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/][Greasemonkey (Firefox)]]
+
+Simply install it [[http://stackoverflow.com/questions/5258989/manually-adding-a-userscript-to-google-chrome][like a regular Userscript]].
