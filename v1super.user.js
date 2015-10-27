@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          V1 Extra Buttons
-// @description	  Adds default Task Buttons for VersionOne
+// @description	  Enhances V1 for Ventyx & Ellipse
 // @include       https://www11.v1host.com/VentyxProd/*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js
 // @require       https://gist.githubusercontent.com/BrockA/2625891/raw/fd02ec05e3079cdd52cf5892a7ba27b67b6b6131/waitForKeyElements.js
