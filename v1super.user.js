@@ -79,7 +79,7 @@ function addButons(d) {
         createElem.children[0].removeAttribute('_handler');
         createElem.children[0].textContent = 'Create Standard Tasks';
         $(createElem).insertAfter(parent);
-        $(createElem).click(function () { oId.startsWith('B') ? createStoryTasks(oId) : createTasks(oId); });
+        $(createElem).click(function () { oId.startsWith('S') ? createStoryTasks(oId) : createTasks(oId); });
         $('<div style="width:0.2em" class="actions">').insertBefore($(createElem));
     }
 }
