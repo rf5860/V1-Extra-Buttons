@@ -6,8 +6,8 @@
 // @require       https://gist.githubusercontent.com/BrockA/2625891/raw/fd02ec05e3079cdd52cf5892a7ba27b67b6b6131/waitForKeyElements.js
 // @author        rf5860
 // @version       0.3
-// @updateURL     https://github.com/rf5860/V1-Extra-Buttons/raw/master/v1-extra-buttons.user.js
-// @downloadURL   https://github.com/rf5860/V1-Extra-Buttons/raw/master/v1-extra-buttons.user.js
+// @updateURL     https://github.com/rf5860/V1-Extra-Buttons/blob/master/v1-extra-buttons.user.js
+// @downloadURL   https://github.com/rf5860/V1-Extra-Buttons/blob/master/v1-extra-buttons.user.js
 // ==/UserScript==
 // Style
 var TASK_URL =  'https://www11.v1host.com/VentyxProd/rest-1.v1/Data/Task';
